@@ -1,15 +1,9 @@
-his role will provide YOU the opportunity to lead key activities to progress YOUR career. These responsibilities include some of the following:
-• Identify critical business problems that could be solved using Generative AI
-• Define strategy for Generative AI and how to apply it
-• Lead discussions at peer review and uses quantitative skills to positively influence decision making
-• Identify opportunities to apply the latest advancements in Large Language Models (LLMs)
-• Prompt engineer the right prompts to optimize LLMs functioning
-• Quickly prototype scenarios from LLMs till UX for user testing purposes
-• Work with our cross-functional team (data scientists, data engineers and research scientists) to define and deliver features in an iterative manner.
-• Lead internal and external developers to deliver on the Generative AI roadmap
-• Develop and embed automated processes for predictive model validation, deployment, and implementation
-• Influence the AI/ML stack like Feature Stores, Model Stores, and automated MLops to create most value out of LLMs.
-• Connect and collaborate with subject matter experts in -different business areas.
-• Make impactful contributions to internal discussions on emerging machine learning methodologies.
-• Educate the organization both from IT and the business perspectives on Generative AI
-• Demonstrate a combination of business focus, strong analytical and problem-solving skills and programming knowledge to be able to quickly cycle hypothesis through the discovery phase of the project and excellent written and communications skills to report back the findings in a clear, structured manner.
+Extensive experience in machine learning, including deep learning frameworks (TensorFlow, PyTorch).
+Solid understanding of natural language processing (NLP) techniques, including Transformer-based models and dialogue systems.
+Strong programming skills in Python and other relevant languages (C++, Java).
+Experience with Retrieval-Augmented Generation (RAG) techniques and large language models.
+Understanding of blockchain technology and familiarity with platforms like LAMChain.
+Demonstrated experience working with cloud platforms and distributed computing infrastructures, including AWS Bedrock.
+Excellent problem-solving and analytical skills.
+Proven ability to work independently and as part of a team.
+Effective communication and presentation skills.
