@@ -1,4 +1,13 @@
-Hands-on experience with LLMs fine-tuning and/or training.
-Hands-on experience with Bert, Bard, ChatGPT, LLaMA, Dolly, etc
-5+ years of experience in any at least 2 of the AI domains: NLP, NLG, Computer Vision, etc.
-Experience in machine learning and software engineering best practices with advanced skills in Python and Cloud
+Utilize advanced machine learning techniques to develop and train generative AI models.
+
+- Collaborate with cross-functional teams to groom and preprocess large datasets for model training.
+
+- Research and implement cutting-edge algorithms and architectures for generative AI applications.
+
+- Optimize model performance and scalability for real-time inference and deployment.
+
+- Stay current with industry trends and advancements in generative AI technology to drive innovation.
+
+- Experiment with different hyperparameters and model configurations to improve generative AI model quality.
+
+- Provide technical expertise and guidance to support the integration of generative AI solutions into various products and services.
