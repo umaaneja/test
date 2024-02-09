@@ -1,13 +1,5 @@
-Utilize advanced machine learning techniques to develop and train generative AI models.
-
-- Collaborate with cross-functional teams to groom and preprocess large datasets for model training.
-
-- Research and implement cutting-edge algorithms and architectures for generative AI applications.
-
-- Optimize model performance and scalability for real-time inference and deployment.
-
-- Stay current with industry trends and advancements in generative AI technology to drive innovation.
-
-- Experiment with different hyperparameters and model configurations to improve generative AI model quality.
-
-- Provide technical expertise and guidance to support the integration of generative AI solutions into various products and services.
+Extensive hands-on ability in training large neural models;
+Proven experience as a Machine Learning Engineer/Scientist, with a strong focus on Generative AI projects
+Demonstrated expertise in training and optimising generative models
+Strong coding skills with deep learning frameworks (e.g. Pytorch, Tensorflow etc.) and distributed training frameworks (e.g. Deepspeed) or CUDA;
+Experience with data preprocessing and data augmentation techniques
