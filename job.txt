@@ -1,5 +1,1 @@
-Extensive hands-on ability in training large neural models;
-Proven experience as a Machine Learning Engineer/Scientist, with a strong focus on Generative AI projects
-Demonstrated expertise in training and optimising generative models
-Strong coding skills with deep learning frameworks (e.g. Pytorch, Tensorflow etc.) and distributed training frameworks (e.g. Deepspeed) or CUDA;
-Experience with data preprocessing and data augmentation techniques
+
