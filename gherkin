@@ -1,0 +1,51 @@
+
+Sample Gherkin Script to Test SAM Microservice
+This is a sample Gherkin script showcasing potential scenarios for testing your SAM microservice:
+
+Feature: User CRUD Operations
+
+Scenario: Create a new user
+
+Gherkin
+Given I have a valid user payload with name "John Doe" and email "john.doe@example.com"
+When I send a POST request to "/users" with the payload
+Then the response status code should be 201
+And the response body should contain a user object with:
+    * id matching a valid UUID format
+    * name set to "John Doe"
+    * email set to "john.doe@example.com"
+Use code with caution. Learn more
+Scenario: Get a specific user
+
+Gherkin
+Given a user exists with id "user-123" and name "Jane Doe"
+When I send a GET request to "/users/user-123"
+Then the response status code should be 200
+And the response body should contain a user object with:
+    * id set to "user-123"
+    * name set to "Jane Doe"
+Use code with caution. Learn more
+Scenario: Update a user
+
+Gherkin
+Given a user exists with id "user-456" and name "Mike Smith"
+When I send a PUT request to "/users/user-456" with an updated payload containing name "Michael Smith"
+Then the response status code should be 200
+And the response body should contain a user object with:
+    * id set to "user-456"
+    * name set to "Michael Smith"
+Use code with caution. Learn more
+Scenario: Delete a user
+
+Gherkin
+Given a user exists with id "user-789"
+When I send a DELETE request to "/users/user-789"
+Then the response status code should be 204
+And I should no longer be able to retrieve the user with id "user-789"
+Use code with caution. Learn more
+Scenario: Error handling for invalid data
+
+Gherkin
+When I send a POST request to "/users" with an invalid payload
+Then the response status code should be 400
+And the response body should contain an e
