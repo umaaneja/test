@@ -1,2 +1,2 @@
-Levenshtein Distance measures the number of single-character edits required to change one string into another. This can help identify columns like birthdate and dob.
-Soundex helps identify phonetically similar names, which could catch variations like sex and gender when column names are spoken but not spelled exactly alike.
+Correlation and Covariance to check relationships between numerical columns.
+Chi-square tests for categorical variables (like comparing gender and sex).
