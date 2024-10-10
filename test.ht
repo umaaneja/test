@@ -5,3 +5,21 @@ Sentiment Detection Accuracy: Difficulty in accurately detecting emotional tone 
 Model Generalization: Ensuring the model generalizes well across industries and conversation types.
 Accents and Dialects: Handling diverse accents and dialects is complex for speech recognition.
 Background Noise: Noisy environments reduce the clarity of transcriptions.
+
+
+
+Data Silos: Difficulty in aggregating data from disparate supply chain systems.
+Real-Time Data Integration: Challenges in continuously updating models with real-time supply chain data.
+Scalability: Handling large-scale data across global supply chain networks.
+Contextual Relevance: Ensuring relevant document retrieval from vast unstructured data sources.
+Data Inconsistency: Variations in formats and quality of supply chain data complicate model training.
+Latency in Query Processing: Slow response times in retrieving and generating insights from large datasets.
+Fine-Tuning for Specific Domains: Customizing AI models to accurately reflect supply chain nuances.
+Multi-Language Support: Handling multiple languages in global supply chain documentation.
+Document Chunking: Breaking down large supply chain documents without losing critical context.
+Dynamic Risk Modeling: Incorporating rapidly changing external risks into AI-driven forecasts.
+Bias in Training Data: Inherent biases in historical supply chain data affect model outcomes.
+Explainability of AI Decisions: Difficulty in interpreting and explaining complex AI-driven recommendations.
+Supplier Privacy: Ensuring sensitive supplier information remains secure in the RAG pipeline.
+Model Generalization: Ensuring the AI solution adapts to varying supply chain scenarios and disruptions.
+Cost of Implementation: High computational resources required for processing large, real-time supply chain datasets.
