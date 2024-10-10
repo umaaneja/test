@@ -1,2 +1,5 @@
-Correlation and Covariance to check relationships between numerical columns.
-Chi-square tests for categorical variables (like comparing gender and sex).
+Custom Vocabulary: Challenges in understanding domain-specific jargon or acronyms.
+Context Understanding: Maintaining context across long conversations for coherent analysis.
+Multi-Speaker Identification: Differentiating between multiple speakers in overlapping conversations.
+Sentiment Detection Accuracy: Difficulty in accurately detecting emotional tone from voice alone.
+Model Generalization: Ensuring the model generalizes well across industries and conversation types.
