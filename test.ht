@@ -3,3 +3,5 @@ Context Understanding: Maintaining context across long conversations for coheren
 Multi-Speaker Identification: Differentiating between multiple speakers in overlapping conversations.
 Sentiment Detection Accuracy: Difficulty in accurately detecting emotional tone from voice alone.
 Model Generalization: Ensuring the model generalizes well across industries and conversation types.
+Accents and Dialects: Handling diverse accents and dialects is complex for speech recognition.
+Background Noise: Noisy environments reduce the clarity of transcriptions.
