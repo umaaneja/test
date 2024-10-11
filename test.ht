@@ -1,25 +1,14 @@
-Custom Vocabulary: Challenges in understanding domain-specific jargon or acronyms.
-Context Understanding: Maintaining context across long conversations for coherent analysis.
-Multi-Speaker Identification: Differentiating between multiple speakers in overlapping conversations.
-Sentiment Detection Accuracy: Difficulty in accurately detecting emotional tone from voice alone.
-Model Generalization: Ensuring the model generalizes well across industries and conversation types.
-Accents and Dialects: Handling diverse accents and dialects is complex for speech recognition.
-Background Noise: Noisy environments reduce the clarity of transcriptions.
+Key stakeholders will be available and engaged throughout the project lifecycle, providing necessary input and feedback during critical phases.
+
+High-quality, structured data is available for training and fine-tuning the Gen AI models.
+Historical support interaction data is accessible for model training.
+The solution will comply with relevant data privacy regulations (e.g., GDPR, HIPAA).
+Security protocols will be in place to protect sensitive data.
+There will be a commitment to continuously monitor and improve the AI models based on user feedback and evolving needs.
+Baseline data for comparison will be available to measure improvement.
 
 
 
-Data Silos: Difficulty in aggregating data from disparate supply chain systems.
-Real-Time Data Integration: Challenges in continuously updating models with real-time supply chain data.
-Scalability: Handling large-scale data across global supply chain networks.
-Contextual Relevance: Ensuring relevant document retrieval from vast unstructured data sources.
-Data Inconsistency: Variations in formats and quality of supply chain data complicate model training.
-Latency in Query Processing: Slow response times in retrieving and generating insights from large datasets.
-Fine-Tuning for Specific Domains: Customizing AI models to accurately reflect supply chain nuances.
-Multi-Language Support: Handling multiple languages in global supply chain documentation.
-Document Chunking: Breaking down large supply chain documents without losing critical context.
-Dynamic Risk Modeling: Incorporating rapidly changing external risks into AI-driven forecasts.
-Bias in Training Data: Inherent biases in historical supply chain data affect model outcomes.
-Explainability of AI Decisions: Difficulty in interpreting and explaining complex AI-driven recommendations.
-Supplier Privacy: Ensuring sensitive supplier information remains secure in the RAG pipeline.
-Model Generalization: Ensuring the AI solution adapts to varying supply chain scenarios and disruptions.
-Cost of Implementation: High computational resources required for processing large, real-time supply chain datasets.
+Developing completely custom AI models from scratch is not part of the implementation; leveraging existing models and fine-tuning is the foc
+Procurement of new hardware or infrastructure upgrades not related to Gen AI deployment is not included.
+Guaranteeing specific performance outcomes (e.g., exact reduction in ticket resolution times) is not within the project's scope; instead, targets will be set as part of performance metrics.
