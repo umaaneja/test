@@ -1,14 +1,12 @@
-Key stakeholders will be available and engaged throughout the project lifecycle, providing necessary input and feedback during critical phases.
-
-High-quality, structured data is available for training and fine-tuning the Gen AI models.
-Historical support interaction data is accessible for model training.
-The solution will comply with relevant data privacy regulations (e.g., GDPR, HIPAA).
-Security protocols will be in place to protect sensitive data.
-There will be a commitment to continuously monitor and improve the AI models based on user feedback and evolving needs.
-Baseline data for comparison will be available to measure improvement.
-
-
-
-Developing completely custom AI models from scratch is not part of the implementation; leveraging existing models and fine-tuning is the foc
-Procurement of new hardware or infrastructure upgrades not related to Gen AI deployment is not included.
-Guaranteeing specific performance outcomes (e.g., exact reduction in ticket resolution times) is not within the project's scope; instead, targets will be set as part of performance metrics.
+Planning and Requirements Gathering
+Understanding the data sources, databases, and specific requirements.
+Data Collection and Profiling
+Gathering metadata from databases and performing initial data profiling.
+Analysis and Matching
+Running data type matching, similarity checks (Levenshtein, Soundex, etc.), and Chi-square tests.
+AI Integration (Optional)
+Implementing AI-based analysis to find semantic similarity between columns.
+Validation and Reporting
+Finalizing the matches and presenting them in reports.
+Maintenance and Support (Optional)
+Ongoing updates or support to add new databases or enhance analysis.
